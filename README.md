@@ -1,5 +1,5 @@
 # Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud
-This repository is the official code for (https://arxiv.org/pdf/1903.09847.pdf). Code will be released soon.
+This is the official repository for (https://arxiv.org/pdf/1903.09847.pdf). Code will be released soon.
 
 ```
 @inproceedings{weng2019mono3d,
