@@ -1,5 +1,8 @@
 # Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud
-This is the official repository for (https://arxiv.org/pdf/1903.09847.pdf). Code will be released soon.
+
+<img align="center" src="https://github.com/xinshuoweng/Mono3D_PLiDAR/blob/master/github_demo.gif">
+
+This repository contains the official PyTorch implementation for "[Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://arxiv.org/pdf/1903.09847.pdf)". If you find this code useful, please cite our paper:
 
 ```
 @inproceedings{weng2019mono3d,
