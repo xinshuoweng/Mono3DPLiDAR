@@ -12,7 +12,7 @@ This repository contains the official PyTorch implementation for "[Monocular 3D 
   eprint = {1903.09847},
   journal = {arXiv:1903.09847},
   title = {{Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud}},
-  url = {http://arxiv.org/abs/1903.09847},
+  url = {http://arxiv.org/abs/1903.09847.pdf},
   year = {2019}
 }
 ```
