@@ -5,15 +5,12 @@
 This repository contains the official PyTorch implementation for "[Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud](https://arxiv.org/pdf/1903.09847.pdf)". This paper has been accepted by IEEE International Conference on Computer Vision ([ICCV](http://iccv2019.thecvf.com/)) Workshops 2019. If you find the paper or the code useful, please cite our paper:
 
 ```
-@article{Weng2019_Mono3D_PLiDAR,
-  archivePrefix = {arXiv},
-  arxivId = {1903.09847},
-  author = {Weng, Xinshuo and Kitani, Kris},
-  eprint = {1903.09847},
-  journal = {arXiv:1903.09847},
-  title = {{Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud}},
-  url = {http://arxiv.org/abs/1903.09847.pdf},
-  year = {2019}
+@InProceedings{Weng_2019_ICCV_Workshops,
+author = {Weng, Xinshuo and Kitani, Kris},
+title = {Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+month = {Oct},
+year = {2019}
 }
 ```
 # News
