@@ -8,7 +8,7 @@ This repository contains the official PyTorch implementation for "[Monocular 3D 
 @InProceedings{Weng_2019_ICCV_Workshops,
 author = {Weng, Xinshuo and Kitani, Kris},
 title = {Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+booktitle = {IEEE International Conference on Computer Vision (ICCV) Workshops},
 month = {Oct},
 year = {2019}
 }
