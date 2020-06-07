@@ -13,5 +13,3 @@ month = {Oct},
 year = {2019}
 }
 ```
-# News
-2019/06/29, we are applying for the license at CMU. The code will be released after we obtain the license.
